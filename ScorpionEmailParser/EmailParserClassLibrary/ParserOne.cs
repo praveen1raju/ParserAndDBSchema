@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-// test case
-// space & time complexity 
 
 namespace EmailParserClassLibrary
 { 
@@ -12,9 +10,7 @@ namespace EmailParserClassLibrary
     {
         public string parseInput(string inputToBeParsed, string tokenBegin, string tokenEnd, Dictionary<string, string> TokensAndReplacements)
         {
-            //use stringbuilder 
-            //tdd
-            //checkin to git
+ 
             StringBuilder Output = new StringBuilder();
             int inputStringLength = inputToBeParsed.Length;
             int CurrStartIndex = 0, CurrEndIndex = 0, LastEndIndex;

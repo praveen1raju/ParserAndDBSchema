@@ -2,8 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-// test case
-// space & time complexity 
+
 
 namespace EmailParserClassLibrary
 {
