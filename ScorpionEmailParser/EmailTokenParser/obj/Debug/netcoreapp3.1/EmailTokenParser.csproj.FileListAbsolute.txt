@@ -1,0 +1,12 @@
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.AssemblyInfoInputs.cache
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.AssemblyInfo.cs
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.csproj.CoreCompileInputs.cache
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.exe
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.deps.json
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.runtimeconfig.json
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.runtimeconfig.dev.json
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.dll
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\bin\Debug\netcoreapp3.1\EmailTokenParser.pdb
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.dll
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.pdb
+C:\MyProjects\ScorpionEmailParser\EmailTokenParser\obj\Debug\netcoreapp3.1\EmailTokenParser.genruntimeconfig.cache

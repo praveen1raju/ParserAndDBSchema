@@ -1,0 +1,9 @@
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\bin\Debug\netcoreapp3.1\EmailParserClassLibrary.deps.json
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\bin\Debug\netcoreapp3.1\EmailParserClassLibrary.dll
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\bin\Debug\netcoreapp3.1\EmailParserClassLibrary.pdb
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.csproj.AssemblyReference.cache
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.AssemblyInfoInputs.cache
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.AssemblyInfo.cs
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.csproj.CoreCompileInputs.cache
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.dll
+C:\MyProjects\ScorpionEmailParser\EmailParserClassLibrary\obj\Debug\netcoreapp3.1\EmailParserClassLibrary.pdb

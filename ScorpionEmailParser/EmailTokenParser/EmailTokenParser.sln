@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailParserTestingProject", "..\EmailParserTestingProject\EmailParserTestingProject.csproj", "{CC558693-310E-4856-8859-00DBEC128C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailParserClassLibrary", "..\EmailParserClassLibrary\EmailParserClassLibrary.csproj", "{BBB37826-2D94-41AF-93CE-D5C017B1B06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC558693-310E-4856-8859-00DBEC128C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC558693-310E-4856-8859-00DBEC128C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC558693-310E-4856-8859-00DBEC128C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC558693-310E-4856-8859-00DBEC128C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB37826-2D94-41AF-93CE-D5C017B1B06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB37826-2D94-41AF-93CE-D5C017B1B06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB37826-2D94-41AF-93CE-D5C017B1B06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB37826-2D94-41AF-93CE-D5C017B1B06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11F5B18-63FF-45D9-9F29-A3CFD410C4AE}
+	EndGlobalSection
+EndGlobal
